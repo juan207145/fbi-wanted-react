@@ -1,0 +1,31 @@
+.detalle {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.detalle img {
+  width: 300px;
+  border-radius: 12px;
+  margin: 10px 0;
+}
+
+.detalle button {
+  margin-left: 10px;
+  font-size: 18px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.detalle ul {
+  list-style: none;
+  padding: 0;
+}
+
+.detalle li {
+  background: #2a2a2a;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 6px;
+}

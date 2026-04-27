@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #1a1a1a, #0d0d0d);
+  font-family: Arial, sans-serif;
+}
+
+.c-menu {
+  display: flex;
+  justify-content: space-around;
+  background: #0d0d0d;
+  padding: 12px;
+  border-bottom: 1px solid #222;
+}
+
+.c-menu a {
+  color: #bbb;
+  text-decoration: none;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+.c-menu a:hover {
+  color: white;
+}
