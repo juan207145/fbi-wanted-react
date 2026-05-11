@@ -6,6 +6,8 @@ import Usuario from './usuario';
 import Home from './home';
 import Favoritos from './favoritos';
 import Detalle from './detalle/Detalle';
+import Login from './login'
+import Registro from './registro'
 import './App.css';
 
 function App() {
